@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="mission_icon">
+        <attr name="progress" format="integer" />
+        <attr name="progress_color" format="color" />
+        <attr name="progress_bg_color" format="color" />
+        <attr name="progress_bg_img" format="reference|integer" />
+    </declare-styleable>
+</resources>
